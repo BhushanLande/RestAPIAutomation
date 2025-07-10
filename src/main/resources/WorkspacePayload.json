@@ -1,0 +1,8 @@
+{
+  "workspace": {
+    "name": "My WorkspaceFileObj",
+    "type": "personal",
+    "description": "This is from RestAssured file object",
+    "visibility": "personal"
+  }
+}
